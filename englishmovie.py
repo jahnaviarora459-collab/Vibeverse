@@ -48,7 +48,7 @@ def show():
  
   import requests
 
-  API_KEY = "AIzaSyDiQUIS2-y8U0un3JCiAe4tgAxhb8003Uc"  # Replace with your key
+  API_KEY = ""  # Replace with your key
   SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 
   def search_youtube_song(query, max_results=5):
