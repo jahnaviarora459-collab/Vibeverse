@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+streamlit
+urllib3
+requests
+opencv-python-headless
+numpy
+pillow
+torch
+torchvision
+pyttsx3
